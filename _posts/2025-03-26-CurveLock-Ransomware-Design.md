@@ -8,7 +8,7 @@ description: A Brief Overview of The Design Of CurveLock Ransomware
 
 # [CurveLock](https://github.com/Swayampadhy/CurveLock)
 
-A mordern ransomware designed from scratch to infect faster and encrypt target contents using Elliptical Curve Cryptography (ECC) algorithm.
+A modern ransomware designed from scratch to infect faster and encrypt target contents using Elliptical Curve Cryptography (ECC) algorithm.
 
 ## Disclaimer 
 ------------
