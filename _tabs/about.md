@@ -10,9 +10,9 @@ I am an undergraduate student at **Manipal Institute of Technology**, majoring i
 <table>
             <tr>
                 <td><img src="https://api.eu.badgr.io/public/assertions/sVLbxYtxS3-q3TOiSmF1sA/image" alt="Red Team Operator Badge" width="120" height="120"></td>
-                <td><img src="https://user-images.githubusercontent.com/37104162/259928338-85e4ba85-02c1-4486-9135-0366072d5657.png" width="120" height="120"></td>
-                <td><img src="https://user-images.githubusercontent.com/37104162/259928418-1445a5ef-f522-4dd7-9209-194448a14259.png" width="120" height="120"></td>
-                <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37104162/259929332-42e90c03-187d-4ab0-8774-7896175acfb8.png" width="120" height="120"></td>
+                <td><img src="https://user-images.githubusercontent.com/37104162/259928338-85e4ba85-02c1-4486-9135-0366072d5657.png" alt="OSCP Badge" width="120" height="120"></td>
+                <td><img src="https://user-images.githubusercontent.com/37104162/259928418-1445a5ef-f522-4dd7-9209-194448a14259.png" alt="OSWP Badge" width="120" height="120"></td>
+                <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/37104162/259929332-42e90c03-187d-4ab0-8774-7896175acfb8.png" alt="Security+ Badge" width="120" height="120"></td>
             </tr>
 </table>
 
